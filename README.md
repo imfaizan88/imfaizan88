@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @imfaizan88
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning .Net Framework
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Excel , PowerBI , Sql and Python.
